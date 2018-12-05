@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [AllPAy Automation Test Suite]">
+  <test thread-count="5" name="AllPay Test Cases(failed)">
+    <classes>
+      <class name="com.allpay.qa.testcases.HomePageTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="verifyUserName"/>
+          <include name="setUp"/>
+          <include name="ValidateUserAccount"/>
+        </methods>
+      </class> <!-- com.allpay.qa.testcases.HomePageTest -->
+      <class name="com.allpay.qa.testcases.DepartmentsTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="validateTitle"/>
+        </methods>
+      </class> <!-- com.allpay.qa.testcases.DepartmentsTest -->
+    </classes>
+  </test> <!-- AllPay Test Cases(failed) -->
+</suite> <!-- Failed suite [AllPAy Automation Test Suite] -->

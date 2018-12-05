@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="AllPAy Automation Test Suite" parallel="false">
+	<test name="AllPay Test Cases">
+		<classes>
+			
+			<class name="com.allpay.qa.testcases.LoginPageTest"></class>
+			<class name="com.allpay.qa.testcases.HomePageTest"></class>
+			
+		</classes>
+	</test>
+</suite>
