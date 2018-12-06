@@ -1,0 +1,4 @@
+com\allpay\qa\testcases\NewUserTest.class
+com\allpay\qa\testcases\HomePageTest.class
+com\allpay\qa\testcases\DepartmentsTest.class
+com\allpay\qa\testcases\LoginPageTest.class

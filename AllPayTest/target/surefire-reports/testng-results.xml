@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="1" failed="0" ignored="0" total="9" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="244376" started-at="2018-12-06T04:12:11Z" finished-at="2018-12-06T04:16:16Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="244376" started-at="2018-12-06T04:12:11Z" finished-at="2018-12-06T04:16:16Z">
+      <class name="com.allpay.qa.testcases.NewUserTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.allpay.qa.testcases.NewUserTest@1143ee9]" name="setUp" is-config="true" duration-ms="12942" started-at="2018-12-06T04:13:55Z" finished-at="2018-12-06T04:14:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="regPage(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.allpay.qa.testcases.NewUserTest@1143ee9]" name="regPage" duration-ms="8299" started-at="2018-12-06T04:14:08Z" data-provider="getRegData" finished-at="2018-12-06T04:14:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Amol]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[9.870953462E9]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[anshdgftr@wtgdr]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[15243vdfrv]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- regPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.allpay.qa.testcases.NewUserTest@1143ee9]" name="tearDown" is-config="true" duration-ms="883" started-at="2018-12-06T04:14:16Z" finished-at="2018-12-06T04:14:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.allpay.qa.testcases.NewUserTest@1143ee9]" name="setUp" is-config="true" duration-ms="13806" started-at="2018-12-06T04:14:17Z" finished-at="2018-12-06T04:14:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="regPage(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.allpay.qa.testcases.NewUserTest@1143ee9]" name="regPage" duration-ms="8713" started-at="2018-12-06T04:14:31Z" data-provider="getRegData" finished-at="2018-12-06T04:14:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rushi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[6g645et54r3]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[bctfgfcv@syfgy]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[fgygfgf6ft6r]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- regPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.allpay.qa.testcases.NewUserTest@1143ee9]" name="tearDown" is-config="true" duration-ms="999" started-at="2018-12-06T04:14:39Z" finished-at="2018-12-06T04:14:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.allpay.qa.testcases.NewUserTest@1143ee9]" name="setUp" is-config="true" duration-ms="14480" started-at="2018-12-06T04:15:26Z" finished-at="2018-12-06T04:15:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="regPageTitle()[pri:2, instance:com.allpay.qa.testcases.NewUserTest@1143ee9]" name="regPageTitle" duration-ms="4172" started-at="2018-12-06T04:15:41Z" finished-at="2018-12-06T04:15:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- regPageTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.allpay.qa.testcases.NewUserTest@1143ee9]" name="tearDown" is-config="true" duration-ms="903" started-at="2018-12-06T04:15:45Z" finished-at="2018-12-06T04:15:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.allpay.qa.testcases.NewUserTest -->
+      <class name="com.allpay.qa.testcases.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.allpay.qa.testcases.HomePageTest@7f6473]" name="setUp" is-config="true" duration-ms="31773" started-at="2018-12-06T04:13:02Z" finished-at="2018-12-06T04:13:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ValidateUserAccount()[pri:1, instance:com.allpay.qa.testcases.HomePageTest@7f6473]" name="ValidateUserAccount" duration-ms="1517" started-at="2018-12-06T04:13:34Z" finished-at="2018-12-06T04:13:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateUserAccount -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.allpay.qa.testcases.HomePageTest@7f6473]" name="tearDown" is-config="true" duration-ms="860" started-at="2018-12-06T04:13:35Z" finished-at="2018-12-06T04:13:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.allpay.qa.testcases.HomePageTest@7f6473]" name="setUp" is-config="true" duration-ms="27545" started-at="2018-12-06T04:14:40Z" finished-at="2018-12-06T04:15:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyUserName()[pri:2, instance:com.allpay.qa.testcases.HomePageTest@7f6473]" name="verifyUserName" duration-ms="787" started-at="2018-12-06T04:15:08Z" finished-at="2018-12-06T04:15:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserName -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.allpay.qa.testcases.HomePageTest@7f6473]" name="tearDown" is-config="true" duration-ms="943" started-at="2018-12-06T04:15:09Z" finished-at="2018-12-06T04:15:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.allpay.qa.testcases.HomePageTest -->
+      <class name="com.allpay.qa.testcases.DepartmentsTest">
+        <test-method status="FAIL" signature="setUp()[pri:0, instance:com.allpay.qa.testcases.DepartmentsTest@10f6bfd]" name="setUp" is-config="true" duration-ms="50779" started-at="2018-12-06T04:12:11Z" finished-at="2018-12-06T04:13:02Z">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[timeout
+  (Session info: chrome=70.0.3538.102)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'WINDOWS7-PC', ip: '192.168.43.176', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_05'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.42.591088 (7b2b2dca23cca0..., userDataDir: C:\Users\WINDOW~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:55148}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.102, webStorageEnabled: true}
+Session ID: 63e9c545072f530135de30174c8b6041]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: timeout
+  (Session info: chrome=70.0.3538.102)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'WINDOWS7-PC', ip: '192.168.43.176', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_05'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.42.591088 (7b2b2dca23cca0..., userDataDir: C:\Users\WINDOW~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:55148}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.102, webStorageEnabled: true}
+Session ID: 63e9c545072f530135de30174c8b6041
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.lang.reflect.Constructor.newInstance(Constructor.java:408)
+at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:276)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:83)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:483)
+at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:403)
+at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement$$Lambda$206/27514015.invoke(Unknown Source)
+at com.sun.proxy.$Proxy11.click(Unknown Source)
+at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:416)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:483)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+at com.sun.proxy.$Proxy10.click(Unknown Source)
+at com.allpay.qa.modules.LoginPage.login(LoginPage.java:51)
+at com.allpay.qa.testcases.DepartmentsTest.setUp(DepartmentsTest.java:27)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:483)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:59)
+at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:458)
+at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:222)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:523)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:77)
+at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.executeMulti(TestNGDirectoryTestSuite.java:159)
+at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.execute(TestNGDirectoryTestSuite.java:99)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:106)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:483)
+at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)
+at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)
+at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="SKIP" signature="validateTitle()[pri:0, instance:com.allpay.qa.testcases.DepartmentsTest@10f6bfd]" name="validateTitle" duration-ms="0" started-at="2018-12-06T04:13:02Z" finished-at="2018-12-06T04:13:02Z">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[timeout
+  (Session info: chrome=70.0.3538.102)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'WINDOWS7-PC', ip: '192.168.43.176', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_05'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.42.591088 (7b2b2dca23cca0..., userDataDir: C:\Users\WINDOW~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:55148}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.102, webStorageEnabled: true}
+Session ID: 63e9c545072f530135de30174c8b6041]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: timeout
+  (Session info: chrome=70.0.3538.102)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'WINDOWS7-PC', ip: '192.168.43.176', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_05'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.42.591088 (7b2b2dca23cca0..., userDataDir: C:\Users\WINDOW~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:55148}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.102, webStorageEnabled: true}
+Session ID: 63e9c545072f530135de30174c8b6041
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.lang.reflect.Constructor.newInstance(Constructor.java:408)
+at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:276)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:83)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:483)
+at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:403)
+at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement$$Lambda$206/27514015.invoke(Unknown Source)
+at com.sun.proxy.$Proxy11.click(Unknown Source)
+at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:416)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:483)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+at com.sun.proxy.$Proxy10.click(Unknown Source)
+at com.allpay.qa.modules.LoginPage.login(LoginPage.java:51)
+at com.allpay.qa.testcases.DepartmentsTest.setUp(DepartmentsTest.java:27)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:483)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:59)
+at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:458)
+at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:222)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:523)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:77)
+at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.executeMulti(TestNGDirectoryTestSuite.java:159)
+at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.execute(TestNGDirectoryTestSuite.java:99)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:106)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:483)
+at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)
+at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)
+at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTitle -->
+        <test-method status="SKIP" signature="tearDown()[pri:0, instance:com.allpay.qa.testcases.DepartmentsTest@10f6bfd]" name="tearDown" is-config="true" duration-ms="0" started-at="2018-12-06T04:13:02Z" finished-at="2018-12-06T04:13:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.allpay.qa.testcases.DepartmentsTest -->
+      <class name="com.allpay.qa.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.allpay.qa.testcases.LoginPageTest@1975490]" name="setUp" is-config="true" duration-ms="16231" started-at="2018-12-06T04:13:36Z" finished-at="2018-12-06T04:13:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageTitle()[pri:1, instance:com.allpay.qa.testcases.LoginPageTest@1975490]" name="loginPageTitle" duration-ms="50" started-at="2018-12-06T04:13:52Z" finished-at="2018-12-06T04:13:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.allpay.qa.testcases.LoginPageTest@1975490]" name="tearDown" is-config="true" duration-ms="948" started-at="2018-12-06T04:13:52Z" finished-at="2018-12-06T04:13:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.allpay.qa.testcases.LoginPageTest@1975490]" name="setUp" is-config="true" duration-ms="13238" started-at="2018-12-06T04:15:10Z" finished-at="2018-12-06T04:15:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="logoTest()[pri:2, instance:com.allpay.qa.testcases.LoginPageTest@1975490]" name="logoTest" duration-ms="2078" started-at="2018-12-06T04:15:23Z" finished-at="2018-12-06T04:15:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.allpay.qa.testcases.LoginPageTest@1975490]" name="tearDown" is-config="true" duration-ms="946" started-at="2018-12-06T04:15:25Z" finished-at="2018-12-06T04:15:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.allpay.qa.testcases.LoginPageTest@1975490]" name="setUp" is-config="true" duration-ms="13383" started-at="2018-12-06T04:15:46Z" finished-at="2018-12-06T04:15:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTst()[pri:3, instance:com.allpay.qa.testcases.LoginPageTest@1975490]" name="loginTst" duration-ms="15699" started-at="2018-12-06T04:15:59Z" finished-at="2018-12-06T04:16:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTst -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.allpay.qa.testcases.LoginPageTest@1975490]" name="tearDown" is-config="true" duration-ms="850" started-at="2018-12-06T04:16:15Z" finished-at="2018-12-06T04:16:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.allpay.qa.testcases.LoginPageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

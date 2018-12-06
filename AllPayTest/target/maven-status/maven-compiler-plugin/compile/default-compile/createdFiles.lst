@@ -1,0 +1,7 @@
+com\allpay\qa\util\TestUtil.class
+com\allpay\qa\modules\HomePage.class
+com\allpay\qa\util\WebEventListener.class
+com\allpay\qa\modules\NewUser.class
+com\allpay\qa\launch\TestBase.class
+com\allpay\qa\modules\Departments.class
+com\allpay\qa\modules\LoginPage.class
